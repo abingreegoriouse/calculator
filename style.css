@@ -1,0 +1,62 @@
+.main_container{
+    background-color:black;
+    width:225px;
+    text-align:center;
+    border-radius:20px;
+}
+
+
+
+.btn{
+width:50px;
+height:50px;
+border-radius: 25px;
+border:1px solid black;
+font-size:20px;
+
+}
+.zero_btn{
+    width: 115px;
+    height: 50px;
+    border-radius: 25px;
+    font-size:20px ;
+    margin: 5px;
+    border:2px solid black;
+    padding-right: 75px;
+}
+
+.orange{
+background_color:orange;
+color:white
+margin:10px;
+padding:20;
+
+}
+
+.black{
+    background_color:black;
+color:white
+margin:10px;
+padding:20;
+
+}
+
+.grey{
+background_color:grey;
+color:black
+margin:10px;
+padding:20;
+
+}
+
+.lbl{
+    color:white;
+    background color:red;
+    font-size: 60px;
+   padding-right: 10px;
+}
+
+.first_row{
+    text-align: right;
+
+}
